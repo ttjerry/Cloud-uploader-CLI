@@ -35,3 +35,8 @@ or run this command in the terminal
 
 `sudo installer -pkg AWSCLIV2.pkg -target /`
 
+**After installation run the following command in your terminal**
+
+`./script.sh path/to/file`
+
+**Where "path to file" is the location of the file you would like to upload**
